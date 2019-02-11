@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eathemea.yetilabs.org/sitemap.xml
